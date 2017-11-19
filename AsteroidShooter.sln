@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{92ABF3D2-047E-1F15-B3BF-F39198A05A72}") = "AsteroidShooter", "Assembly-UnityScript-firstpass.unityproj", "{3B4179BA-420A-C9EB-F265-7DA9072290C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidShooter", "Assembly-CSharp.csproj", "{CBB45F3E-7D05-E163-36C8-4E13F3C72639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidShooter", "Assembly-CSharp-firstpass.csproj", "{C77D2096-2287-4F6E-8591-BF9195BC01B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4179BA-420A-C9EB-F265-7DA9072290C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4179BA-420A-C9EB-F265-7DA9072290C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4179BA-420A-C9EB-F265-7DA9072290C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4179BA-420A-C9EB-F265-7DA9072290C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB45F3E-7D05-E163-36C8-4E13F3C72639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB45F3E-7D05-E163-36C8-4E13F3C72639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB45F3E-7D05-E163-36C8-4E13F3C72639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB45F3E-7D05-E163-36C8-4E13F3C72639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77D2096-2287-4F6E-8591-BF9195BC01B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77D2096-2287-4F6E-8591-BF9195BC01B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77D2096-2287-4F6E-8591-BF9195BC01B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77D2096-2287-4F6E-8591-BF9195BC01B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
